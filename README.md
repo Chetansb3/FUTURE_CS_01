@@ -17,7 +17,7 @@ The task was to perform **web application vulnerability assessment** on intentio
 ```/README.md``` → Project overview<br>
 
 ## 📬 Author
-**Rishav Raj** – Cyber Security Intern @ Future Interns
+**Chetan* – Cyber Security Intern @ Future Interns
 
 ---
 👉 Star ⭐ this repository if you found it helpful!
